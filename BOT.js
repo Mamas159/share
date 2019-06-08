@@ -7,13 +7,11 @@ A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 [ ${member}  ]
-[ https://discord.gg/49svAK5 ]
+[ https://discord.gg/TevSz78 ]
 **giveaways**
 **free accounts**
-**drops**
-all accounts is here free
+**And such more things coming, stay tuned :)**
 __________________________
-plz join for me
 `) 
 }).catch(console.error)
 })
